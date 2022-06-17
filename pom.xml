@@ -126,7 +126,7 @@
         <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
-            <version>1.2.58</version>
+            <version>1.2.83</version>
         </dependency>
         <!--开发工具 lombok 注意使用该jar 需要在IDE 安装相应的插件-->
         <dependency>
